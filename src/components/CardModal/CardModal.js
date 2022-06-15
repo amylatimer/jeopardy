@@ -4,7 +4,7 @@ import logo from "../../assets/img/brainstation.png";
 // import snowman from "../../assets/img/snowman.png";
 // import rallydoc from "../../assets/img/rallydoc.svg";
 import "./CardModal.scss";
-import CardTimer from "../CardTimer/CardTimer";
+// import CardTimer from "../CardTimer/CardTimer";
 import dailydoubleimg from "../../assets/img/dailydouble.png";
 import dailydoublesound from "../../assets/music/dailydouble.mp3";
 
@@ -52,7 +52,7 @@ const CardModal = ({
           <>
             <p className="cardmodal__points">{points}</p>
             <p className="cardmodal__text cardmodal__text--qa">{question}</p>
-            <CardTimer timerDuration={timerDuration} />
+            {/* <CardTimer timerDuration={timerDuration} /> */}
           </>
         ) : (
           <>

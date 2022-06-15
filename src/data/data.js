@@ -1,12 +1,12 @@
 const data = [
   {
-    category: "Oscar Worthy",
+    category: "What do you meme",
     questions: [
       {
         points: 100,
         question:
-          "The actor that played the fictional character Dr. Emmett Brown in the Back to the Future trilogy",
-        answer: "Christopher Lloyd",
+          "git lense, bracket pair colorizer, ",
+        answer: "What are the best VS code extentsion",
       },
       {
         points: 200,
@@ -33,7 +33,7 @@ const data = [
     ],
   },
   {
-    category: "Who let the Dogs out?",
+    category: "Category Two",
     questions: [
       {
         points: 100,
